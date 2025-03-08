@@ -22,5 +22,6 @@ This project focuses on Data Manipulation Language (DML) commands in MySQL, demo
 ✅ Update Data – Modify existing records based on conditions.
 ✅ Delete Data – Remove unnecessary records.
 ✅ Retrieve Data – Use SQL queries to fetch, filter, and sort records.
+
 # Conclusion:
 This project demonstrates how DML commands play a crucial role in database management, ensuring effective data modification and retrieval. By implementing these commands, we can efficiently manage and manipulate records within a MySQL database.
